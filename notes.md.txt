@@ -1,0 +1,1 @@
+Bei Änderung der Hardware besteht z.B. die Möglichkeit, dass sich der Kunde meldet, seine neue Hardware-ID angibt und man manuell einen neuen Key generiert und diesen den Kunden zukommen lässt.
